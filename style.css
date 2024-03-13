@@ -1,3 +1,8 @@
-html {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+<style>
+    html {
+        font-family: sans-serif;
+    }
+    body {
+        background-image: url('background-for-website.jpg');
+    }
+</style>
